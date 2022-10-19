@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Finlandica:ital@1&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #ffffff;
+}
+.nav-bar {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  background-color: #cfd3ce;
+  margin-bottom: 50px;
+  color: black;
+  font-size: 1.2rem;
+  text-align: center;
+  border-bottom: 2px solid black;
+  font-family: "Finlandica", sans-serif;
+}
+
+.array-inp {
+  padding: 2em 3em;
+  margin: 1em 5em;
+  border-radius: 30px;
+  border-style: none;
+}
+.speed-inp {
+  padding: 2em 3em;
+  margin: 1em 5em;
+  border-radius: 30px;
+  border-style: none;
+}
+.btn-submit {
+  border-radius: 40px;
+  background-color: #cfd3ce;
+  padding: 1em 2em;
+  font-size: 1.2em;
+  border-style: none;
+  color: black;
+}
+.btn-submit:hover {
+  background-color: #aedbce;
+}
+.btns {
+  display: flex;
+  justify-content: center;
+}
+.btn {
+  padding: 1em 3em;
+  border-radius: 40px;
+  margin: 20px;
+  background-color: #cfd3ce;
+  border-style: none;
+  color: aliceblue;
+  font-size: 20px;
+  color: black;
+}
+.btn-new-array {
+  background-color: #827397;
+}
+.btn:hover {
+  background-color: #5534a5;
+}
+.bars {
+  /* width: 100%; */
+  margin: 2rem;
+  display: flex;
+  justify-content: center;
+  background-color: #cfd3ce;
+  padding: 100px 30px;
+  margin-top: 50px;
+  align-items: center;
+  border-radius: 20px;
+}
+.bars-inside {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}

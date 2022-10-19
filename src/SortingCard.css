@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Finlandica:ital@1&display=swap");
+button {
+  padding: 10px;
+  border-radius: 15px;
+  border-style: none;
+  background-color: #34656d;
+  margin: 10px;
+  color: black;
+  border: "solid 2px black";
+}
+.cnt {
+  font-family: "Finlandica", sans-serif;
+}
